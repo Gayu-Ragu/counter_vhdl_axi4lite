@@ -1,0 +1,14 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "[vhdl]": {
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+        "editor.suggestOnTriggerCharacters": false,
+        "editor.acceptSuggestionOnEnter": "off",
+        "editor.tabCompletion": "off",
+        "editor.snippetSuggestions": "none"
+    }
+}
