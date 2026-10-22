@@ -1,7 +1,13 @@
 v 4
+file . "tb_axi_counter.vhd" "439f4a97e467247bd161d3c2cf90047f4759f404" "20261022095654.281":
+  entity tb_axi_counter at 1( 0) + 0 on 39;
+  architecture sim of tb_axi_counter at 8( 115) + 0 on 40;
 file . "counter.vhd" "4ac63704b2bc780ecad8cd6b0732a6f1a9451eed" "20261022083251.738":
   entity counter at 1( 0) + 0 on 23;
   architecture rtl of counter at 14( 270) + 0 on 24;
 file . "tb_counter.vhd" "b05a774249c7918626bd7aa632f8601b8d530dc0" "20261022083251.739":
   entity tb_counter at 1( 0) + 0 on 25;
   architecture sim of tb_counter at 8( 111) + 0 on 26;
+file . "axi_counter.vhd" "fb6158d02f7e345811020938a39bb706830ff137" "20261022095654.280":
+  entity axi_counter at 1( 0) + 0 on 37;
+  architecture rtl of axi_counter at 32( 1128) + 0 on 38;
